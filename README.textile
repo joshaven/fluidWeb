@@ -1,0 +1,16 @@
+h1. Herein lies the beginnings of a JavaScript Web Framework
+
+This framework will be run on node.js (an asynchronous server side event based I/O running on google's V8 JavaScript engine.) 
+
+h2. Purpose/Agenda
+
+It will offer the unique experience of aiding the you, the developer, in staying as much as possible in one language for both client and server side code.  
+
+This project is intended to be an open source project.  All contributions are welcome both to the ideals of a JavaScript Web Framework and the the implementation of such ideals.  For contributions to be edifying, they must conform to the ideals of the project as a whole, thus contributions must be approved by the core team also known as project leaders.  If you are interested in contributing to this project please present your contribution to a project leader.
+
+
+h2. Current Project Leaders
+
+| Joshaven Potter  | http://github.com/joshaven   |
+| Tim Caswell      | http://github.com/creationix |
+| Daniel Parker    | http://github.com/dcparker   |
