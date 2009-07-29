@@ -1,0 +1,7 @@
+Herein lies a 
+JavaScript Web Framework
+Its not much more then a concept yet but its coming.
+
+This framework will be run on node.js (an asynchronous server side event based I/O running on google's V8 JavaScript engine.) 
+
+It will offer the unique experience of aiding the you, the developer, in staying as much as possible in one language for both client and server side code.  
