@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Starting Server on port 7000"
+node script/server.js
