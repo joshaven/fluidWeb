@@ -4,9 +4,7 @@
 # you can optionally specify the port like: ./script/server 7000
 #
 
-
-
-if [ $1 > 0 ];then PORT=$1; else PORT=7000;fi
+if [ $# == 1 ];then PORT=$1; else PORT=7000;fi
 
 echo  "=> Booting node"
 echo  "=> FluidJS 0.0.1 application starting on http://127.0.0.1:$PORT"
