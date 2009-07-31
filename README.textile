@@ -1,5 +1,7 @@
 h1. Herein lies the beginnings of a JavaScript Web Framework
 
+h2. The targets for this project are: minimalistic, modular, and well polished
+
 This framework will be run on node.js (an asynchronous server side event based I/O running on google's V8 JavaScript engine.) 
 
 h2. Purpose/Agenda
