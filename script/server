@@ -1,3 +1,15 @@
 #!/bin/bash
-echo "Starting Server on port 7000"
-node script/server.js
+# Shell script to execute the JavaScript web server on the optional specified port
+# From the root of the directory, execute: ./script/server
+# you can optionally specify the port like: ./script/server 7000
+#
+
+
+
+if [ $1 > 0 ];then PORT=$1; else PORT=7000;fi
+
+echo  "=> Booting node"
+echo  "=> FluidJS 0.0.1 application starting on http://127.0.0.1:$PORT"
+echo  "=> Ctrl-C to shutdown server"
+echo
+node script/server.js $PORT
